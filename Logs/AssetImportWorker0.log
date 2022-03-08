@@ -1,0 +1,217 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.5f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/lebrieh/Desktop/byjus/ProyectoCarlos/Speech-And-Text-Unity-iOS-Android/SpeechToText_AppleAPI
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52606
+Successfully changed project path to: /Users/lebrieh/Desktop/byjus/ProyectoCarlos/Speech-And-Text-Unity-iOS-Android/SpeechToText_AppleAPI
+/Users/lebrieh/Desktop/byjus/ProyectoCarlos/Speech-And-Text-Unity-iOS-Android/SpeechToText_AppleAPI
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 23.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.5f1 (e2c53f129de5)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.5f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/lebrieh/Desktop/byjus/ProyectoCarlos/Speech-And-Text-Unity-iOS-Android/SpeechToText_AppleAPI/Assets
+GfxDevice: creating device client; threaded=0
+2022-03-08 15:36:25.374 Unity[3159:132158] Color LCD preferred device: AMD Radeon Pro 560X (high power)
+2022-03-08 15:36:25.374 Unity[3159:132158] Metal devices available: 2
+2022-03-08 15:36:25.374 Unity[3159:132158] 0: AMD Radeon Pro 560X (high power)
+2022-03-08 15:36:25.374 Unity[3159:132158] 1: Intel(R) UHD Graphics 630 (low power)
+2022-03-08 15:36:25.374 Unity[3159:132158] Using device AMD Radeon Pro 560X (high power)
+Initializing Metal device caps: AMD Radeon Pro 560X
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.5f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.5f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.5f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56159
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.5f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.5f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.5f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008749 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 24.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.017 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001515 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.914 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.5f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.2 MB.
+System memory in use after: 114.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1550.
+Total: 1.858747 ms (FindLiveObjects: 0.159221 ms CreateObjectMapping: 0.041511 ms MarkObjects: 1.579422 ms  DeleteObjects: 0.077549 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/SpeechAndText/Sample/speak.png
+  artifactKey: Guid(615c5fba3d9117b4091b81a80bb1e171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechAndText/Sample/speak.png using Guid(615c5fba3d9117b4091b81a80bb1e171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b63f071620cf57e9625c8c177f3ba1c6') in 1.160198 seconds
+  Import took 1.162635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/SpeechAndText/Sample/speech.png
+  artifactKey: Guid(ac822674d53761e4fa33ffc354ee9ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechAndText/Sample/speech.png using Guid(ac822674d53761e4fa33ffc354ee9ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20c145f8dc420d29e9aabb1936c88134') in 0.010757 seconds
+  Import took 0.012523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/SpeechAndText/Scripts/TextToSpeech.prefab
+  artifactKey: Guid(a592da1d5e8dba34f96c7ca9db6bc203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechAndText/Scripts/TextToSpeech.prefab using Guid(a592da1d5e8dba34f96c7ca9db6bc203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c1a6e750f2ed73692ab60b48010fb14') in 0.802797 seconds
+  Import took 0.804676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/SpeechAndText/Scripts/SpeechToText.prefab
+  artifactKey: Guid(b2464bcbb9cb0e148844469d8bdd76dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechAndText/Scripts/SpeechToText.prefab using Guid(b2464bcbb9cb0e148844469d8bdd76dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ec7e02ae7dd48088f3712f1f0a3915c') in 0.003027 seconds
+  Import took 0.004603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/SpeechAndText/Sample/rect.png
+  artifactKey: Guid(f05e9a8a104b26b4ebb5e484d959529c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechAndText/Sample/rect.png using Guid(f05e9a8a104b26b4ebb5e484d959529c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd924f55c03acc5b92cbe99e8f206a50c') in 0.014262 seconds
+  Import took 0.015988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/SpeechAndText/Sample/box.png
+  artifactKey: Guid(ee1663a3c3e75d648a0dcf7e375ef189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechAndText/Sample/box.png using Guid(ee1663a3c3e75d648a0dcf7e375ef189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44de5e0e4e8cf671ee4e198afba8b3bb') in 0.009806 seconds
+  Import took 0.011482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/SpeechAndText/Sample/setting.png
+  artifactKey: Guid(62f6586597aa7f146ab68b3bf6cfbf61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechAndText/Sample/setting.png using Guid(62f6586597aa7f146ab68b3bf6cfbf61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd51a56af2684e32baeeb5f4f3cda8545') in 0.007052 seconds
+  Import took 0.008733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.884844 seconds.
+  path: Assets/Plugins/Android
+  artifactKey: Guid(b6fd70af607e01b41ae54870b8e56c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android using Guid(b6fd70af607e01b41ae54870b8e56c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab5893837fd78ba640ebb420cfafa089') in 0.000840 seconds
+  Import took 0.002549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014021 seconds.
+  path: Assets/Plugins/Android
+  artifactKey: Guid(b6fd70af607e01b41ae54870b8e56c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android using Guid(b6fd70af607e01b41ae54870b8e56c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab5893837fd78ba640ebb420cfafa089') in 0.000767 seconds
+  Import took 0.002384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.322236 seconds.
+  path: Assets/SpeechAndText/Sample/SampleSpeechToText.unity
+  artifactKey: Guid(d9447599b4cad0245ac00fa552c354b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechAndText/Sample/SampleSpeechToText.unity using Guid(d9447599b4cad0245ac00fa552c354b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '315fd428048573a96bb5d0967b01c764') in 0.001504 seconds
+  Import took 0.003427 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000412 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.898 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.9 MB.
+System memory in use after: 126.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1562.
+Total: 1.480333 ms (FindLiveObjects: 0.137278 ms CreateObjectMapping: 0.035491 ms MarkObjects: 1.278161 ms  DeleteObjects: 0.014354 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.9 MB.
+System memory in use after: 104.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1562.
+Total: 1.724793 ms (FindLiveObjects: 0.144492 ms CreateObjectMapping: 0.036478 ms MarkObjects: 1.527555 ms  DeleteObjects: 0.015270 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.749857 seconds.
+  path: Assets/SpeechAndText/Scripts/SpeechToText.prefab
+  artifactKey: Guid(b2464bcbb9cb0e148844469d8bdd76dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechAndText/Scripts/SpeechToText.prefab using Guid(b2464bcbb9cb0e148844469d8bdd76dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ef1fb80d9745e18da931c7474ebc0fb') in 0.023459 seconds
+  Import took 0.025689 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.4 MB.
+System memory in use after: 104.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1562.
+Total: 2.538667 ms (FindLiveObjects: 0.207185 ms CreateObjectMapping: 0.061449 ms MarkObjects: 2.251283 ms  DeleteObjects: 0.016819 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
